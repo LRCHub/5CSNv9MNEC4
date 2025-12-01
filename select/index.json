@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Don't say \"lazy\"",
+  "base_artist": "平沢唯(CV:豊崎愛生)、秋山澪(CV:日笠陽子)、桜高軽音部、田井中律(CV:佐藤聡美)、琴吹紬(CV:寿美菜子)",
+  "createdAt": "2025-12-01T05:11:33.876404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't say \"lazy\"",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/01_Don't_say__lazy_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't say lazy(ライブイベント ~レッツゴー!~Ver.)",
+      "artist": "Ho - Kago Tea Time",
+      "has_synced": false,
+      "path": "select/02_Don't_say_lazy(ライブイベント_~レッツゴー!~Ver.)_Ho_-_Kago_Tea_Time.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't say “lazy” [Live]",
+      "artist": "HO-KAGO TEA TIME",
+      "has_synced": false,
+      "path": "select/03_Don't_say_“lazy”_[Live]_HO-KAGO_TEA_TIME.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don’t Say Lazy (From “K-On!”)",
+      "artist": "AmaLee feat. Lizz Robinett",
+      "has_synced": true,
+      "path": "select/04_Don’t_Say_Lazy_(From_“K-On!”)_AmaLee_feat._Lizz_Robinett.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Say Lazy (From “K-On!”)",
+      "artist": "Amalee",
+      "has_synced": true,
+      "path": "select/05_Don’t_Say_Lazy_(From_“K-On!”)_Amalee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don’t say “lazy”",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/06_Don’t_say_“lazy”_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Say “Lazy”",
+      "artist": "Ho-kago Tea Time",
+      "has_synced": true,
+      "path": "select/07_Don't_Say_“Lazy”_Ho-kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don’t say “lazy” (5 Person Ver.)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/08_Don’t_say_“lazy”_(5_Person_Ver.)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don’t say “lazy” [TV size Ver.]",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/09_Don’t_say_“lazy”_[TV_size_Ver.]_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Say \"Lazy\" (From \"K-On!\")",
+      "artist": "Sakurakou K-ON Bu",
+      "has_synced": false,
+      "path": "select/10_Don't_Say__Lazy__(From__K-On!_)_Sakurakou_K-ON_Bu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don’t say “lazy” [GAME Mix]",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/11_Don’t_say_“lazy”_[GAME_Mix]_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don’t Say Lazy (From “K-On!”)",
+      "artist": "AmaLee/Lizz Robinett",
+      "has_synced": true,
+      "path": "select/12_Don’t_Say_Lazy_(From_“K-On!”)_AmaLee_Lizz_Robinett.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't say \"lazy\"",
+      "artist": "Houkago Tea Time: Toyosaki Aki & Hikasa Youko & Satou Satomi & Kotobuki Minako",
+      "has_synced": true,
+      "path": "select/13_Don't_say__lazy_Houkago_Tea_Time__Toyosaki_Aki_&_Hikasa_Youko_&_Satou_Satomi_&_Kotobuki_Minako.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't say \"lazy\"",
+      "artist": "桜高軽音部 [平沢唯・秋山澪・田井中律・琴吹紬(CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": true,
+      "path": "select/14_Don't_say__lazy_桜高軽音部_[平沢唯・秋山澪・田井中律・琴吹紬(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't say \"lazy\"",
+      "artist": "桜高軽音部",
+      "has_synced": true,
+      "path": "select/15_Don't_say__lazy_桜高軽音部.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don’t Say Lazy (From “K-On!”) [feat. Lizz Robinett]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/16_Don’t_Say_Lazy_(From_“K-On!”)_[feat._Lizz_Robinett]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don’t say “lazy”",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/17_Don’t_say_“lazy”_HO‐KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Don’t say “lazy” (Instrumental)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/18_Don’t_say_“lazy”_(Instrumental)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't say \"lazy\"",
+      "artist": "桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬 (CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_say__lazy_桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬_(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Don't say lazy",
+      "artist": "桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬 (CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": false,
+      "path": "select/pl_02_Don't_say_lazy_桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬_(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Don't say \"lazy\"",
+      "artist": "桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬 (CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": false,
+      "path": "select/pl_03_Don't_say__lazy_桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬_(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Don't say lazy",
+      "artist": "桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬 (CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": false,
+      "path": "select/pl_04_Don't_say_lazy_桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬_(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Don't say lazy",
+      "artist": "桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬 (CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]",
+      "has_synced": false,
+      "path": "select/pl_05_Don't_say_lazy_桜高軽音部[平沢唯・秋山澪・田井中律・琴吹紬_(CV_豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)].txt"
+    }
+  ]
+}
